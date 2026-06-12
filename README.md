@@ -12,15 +12,15 @@ Passionate about creating responsive, user-friendly web applications and designi
 - 📫 Reach me at:krishnakumarguruvayurappan@gmail.com
 
 ---
+## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,vscode" />
 </p>
-
-### Additional Design Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
 </p>
 
 ## 📂 Featured Projects
