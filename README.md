@@ -38,16 +38,15 @@ Built responsive websites using HTML, CSS, JavaScript, and Bootstrap.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KRISHNA-G10&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-G10&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio.com
+- Portfolio: https://marvelous-souffle-00f630.netlify.app/
 - Email: krishnakumarguruvayurappan@gmail.com
 
 ---
