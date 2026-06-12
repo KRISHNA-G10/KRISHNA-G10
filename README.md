@@ -13,20 +13,15 @@ Passionate about creating responsive, user-friendly web applications and designi
 
 ---
 
-## 🛠️ Skills & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,photoshop" />
+</p>
 
-### Front-End Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Additional Design Tools
 
-### UI/UX Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
+</p>
 
 ## 📂 Featured Projects
 
