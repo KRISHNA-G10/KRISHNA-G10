@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [KRISHNA KUMAR]
+# Hi there 👋, I'm KRISHNA KUMAR  G
 
 ## 🚀 Front-End Developer & UI/UX Designer
 
