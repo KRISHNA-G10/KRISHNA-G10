@@ -15,7 +15,7 @@ Passionate about creating responsive, user-friendly web applications and designi
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,vscode,java,c" />
 </p>
 
 <p align="left">
